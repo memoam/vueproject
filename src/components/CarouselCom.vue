@@ -26,7 +26,7 @@
     top: 15%;
     right: 10%;
     width: 300px;
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
       width: 100px;
       top: 2%;
     }
@@ -35,7 +35,7 @@
       font-size: 2.5em;
       font-weight: bold;
       text-transform: uppercase;
-      @media (max-width: 400px) {
+      @media (max-width: 500px) {
         font-size: 0.9em;
       }
     }
@@ -44,7 +44,7 @@
       margin: 1em 0;
       color: #c8c8c8;
       font-weight: 200;
-      @media (max-width: 400px) {
+      @media (max-width: 500px) {
         font-size: 7px;
       }
     }
@@ -52,7 +52,7 @@
       font-size: 1.5em;
       color: #c8c8c8;
       font-weight: 200;
-      @media (max-width: 400px) {
+      @media (max-width: 500px) {
         font-size: 10px;
       }
     }
@@ -60,7 +60,7 @@
       border-radius: 10px;
       float: right;
       margin-top: 1em;
-      @media (max-width: 400px) {
+      @media (max-width: 500px) {
         font-size: 12px;
       }
     }
